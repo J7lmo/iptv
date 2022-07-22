@@ -1,9 +1,9 @@
 #EXTM3U 
-#EXTINF:-1 tvg-name="Abuela" tvg-logo="https://fr.web.img2.acsta.net/pictures/22/01/26/14/07/2560251.jpg" group-title="WRLD Movie",Abuela
+#EXTINF:-1 tvg-name="" tvg-logo="https://fr.web.img2.acsta.net/pictures/22/01/26/14/07/2560251.jpg" group-title="WRLD Movie",Abuela
 https://player.odycdn.com/api/v4/streams/free/ABL/2bd75e4fc48ed6b7164ca157727daeabdb4c9eee/ebe4e2
-#EXTINF:-1 tvg-name="La loi du marché" tvg-logo="https://wiflix.bet/checkimg.php?urli=stream-vf-6598-2c02-8b57-43bb.jpg" group-title="FR Movie",La loi du marché
+#EXTINF:-1 tvg-name="" tvg-logo="https://wiflix.bet/checkimg.php?urli=stream-vf-6598-2c02-8b57-43bb.jpg" group-title="FR Movie",La loi du marché
 https://player.odycdn.com/api/v4/streams/free/ldmlcx/99ffa347d4cb58fbc9f5405919d66ac0b40bc04d/bdf4fe
-#EXTINF:-1 tvg-name="Libre et Assoupi" tvg-logo="https://fr.web.img2.acsta.net/pictures/14/02/26/17/13/523960.jpg" group-title="FR Movie",Libre et Assoupi
+#EXTINF:-1 tvg-name="" tvg-logo="https://fr.web.img2.acsta.net/pictures/14/02/26/17/13/523960.jpg" group-title="FR Movie",Libre et Assoupi
 https://player.odycdn.com/api/v4/streams/free/Lbajlcx/139501fd002b220f208f036be47d46fad44edd0a/772302
 #EXTINF:-1 tvg-name="" tvg-logo="https://i.imgur.com/lGhrKxq.jpg" group-title="US Movie",SPIRALE : L'HÉRITAGE DE SAW
 https://toma654.tomacloud.com/files/jxZQabgiDSWVcsh18xGOEhxuA7HJ0mFjUFa.mp4
@@ -45,6 +45,50 @@ https://toma620.tomacloud.com/files/NSSq5nrfKQqotCPioWgz4ixTwjFRJnUxgNX.mp4
 https://toma708.tomacloud.com/files/Zpn9BGiZ7k7U4XqHSf8anIztA5yQ2eD2E0b.mp4
 #EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/mApajQEvFDpabw88IrR8VZnHjIY.jpg" group-title="US Movie",Reminiscence
 https://toma654.tomacloud.com/files/3OT63x8IxkXfNd4BBNuWX5amOz9gxpjAecG.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/fQ7xKS1GyN9ELx5gbO9fSlZcNx4.jpg" group-title="US Movie",Jurassic World : Fallen Kingdom
+https://toma621.tomacloud.com/files/pyxqQcHE7wWwpjayVP7xVlt4ATAyrA0R8yi.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://fr.web.img4.acsta.net/pictures/18/04/20/16/37/2795434.jpg" group-title="FR Movie",En Guerre
+https://player.odycdn.com/api/v4/streams/free/ENGlcx/3f29cfbf376dba25e7c5f0527c59a3f4f5afae1a/11f35a
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/1rVNiPMAHOyxjkdwyTtqUQs0i61.jpg" group-title="US Movie",Black Phone
+https://toma804.tomacloud.com/files/4IHnIrnlkUWIRQhmGG041ZVqyGqGS0OXIwk.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/gy9QezVWkLlv9KxM63MXJkJIgoR.jpg" group-title="US Movie",Les Crimes du futur
+https://toma620.tomacloud.com/files/jsZVlJb8u0CUcvOit0bS974pROLLjPlDiky.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/5VJDt4FxDfbm0wSihlRmFNA84wP.jpg" group-title="FR Movie",Murder Party
+https://toma28.tomacloud.com/files/VwuMJm8H1vvX1vnN4SAjcHksECYG3d7YKBL.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/A1qgoXfntokIgCbGA0YXpzN1J4V.jpg" group-title="FR Movie",La Vraie Famille
+https://toma468.tomacloud.com/files/TORvtd9xsrrZJ29FN3zwkX1BYJr43zXWoPr.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/kXGWSH09gLpRKdKloeHXuVAuBaU.jpg" group-title="FR Movie",Enquête sur un scandale d'État
+https://toma654.tomacloud.com/files/xOgguRBduTZJ6Y9HLm9fCBqTYnYX0CRyr8O.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/pGJbGtoAtboZEDwj6G1lZefIWkF.jpg" group-title="WRLD Movie",Hopper et le hamster des ténèbres
+https://toma654.tomacloud.com/files/0SNRZkDBHYTOzFrMetFnxrlNUXLxfr8gjW8.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/kO9muUDMi40FpnrqRvkMqCwc5Ac.jpg" group-title="FR Movie",La Promesses
+https://toma654.tomacloud.com/files/3EUBt8MxG6pzAzmHfskXwo8o6LBxE9RIOMj.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/hJGm8gqeFVd5MkOZa6HEHDi1te7.jpg" group-title="FR Movie",Maigret
+https://toma654.tomacloud.com/files/HCEfk7OlbgTCwjw2YrsMDslJgkTa7AxOdb3.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/yqiRsgIylxbjQPG1CHkirx2idcW.jpg" group-title="US Movie",Teen Titans Go! & DC Super Hero Girls : Pagaille dans le Multivers
+https://toma620.tomacloud.com/files/yGtVwPiFjgqYFzml8ElKUeNueDvLYKLxqft.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/dbJDPJBHKxnMyvcc12mcbGK5RPF.jpg" group-title="US Movie",Doctor Strange in the Multiverse of Madness
+https://toma761.tomacloud.com/files/oOFEfOUzK3S0PMZzAMU4Z0MHMSW0jZ9HNPm.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/egGU04GIouAZJitu20gbhO2ddsc.jpg" group-title="US Movie",Nos âmes d'enfant
+https://toma654.tomacloud.com/files/pbPvMtNShZg8PgYJf2fYe12WN7tlUTAj5qO.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/qjz6ecsABklAnOb2r1RPuRp9nYv.jpg" group-title="FR Movie",Super-héros malgré lui
+https://toma577.tomacloud.com/files/ryxeF1AzVbS0BHSwjCIVC2nTlxqHXVhotPD.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/7COPO5B9AOKIB4sEkvNu0wfve3c.jpg" group-title="US Movie",Spiderhead
+https://toma654.tomacloud.com/files/3678jZthI8cuWp4RR3pq5PJDCAfWovWsB3A.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/nfeLQ1aLVIKxxjypaa8DXSFoueW.jpg" group-title="FR Movie",Les Vedettes
+https://toma654.tomacloud.com/files/UvVvrYRUQPlXzIw7nCshZIugjSmWWP2QkYm.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/2C7GcDo3G2KXqxLyYE07UjMoyxG.jpg" group-title="US Movie",Firestarter
+https://toma629.tomacloud.com/files/Q5bvn8E1b2HdkrQ0bvGsQMtqXPMXFGCwLO2.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Movie",
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Movie",
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Movie",
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Movie",
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Movie",
+
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Movie",
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Movie",
