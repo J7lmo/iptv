@@ -87,12 +87,12 @@ https://s30.upstreamcdn.co/hls/w47rysiecbb5x2nrozekqbvtixvmgpy3ph2lnm3txe2iugy6x
 https://s97.upstreamcdn.co/hls/w47ryexufzb5x2nro3ckqsp2jog4en4zc6okc7nmhtufhx5n4dyyioqbcmwq/index-v1-a1.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://medias.unifrance.org/medias/14/155/236302/format_page/media.jpg" group-title="WRLD Movie",Flee
 https://player.odycdn.com/api/v4/streams/free/Filcx/a57064b6443ead7f71d3f66336ec2e008c0ec312/9eb936
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Movie",
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Movie",
-
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Movie",
-
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/ko1JVbGj4bT8IhCWqjBQ6ZtF2t.jpg" group-title="US Movie",Marry Me
+https://toma122.tomacloud.com/files/G0BIrDxuB26O8p0QWIFQKhqOxPdyiMQZMrI.mp4
+#EXTINF:-1 tvg-name="" tvg-logo="https://fr.web.img4.acsta.net/medias/nmedia/18/35/47/31/18460539.jpg" group-title="FR Movie",Conte d'étés
+https://player.odycdn.com/api/v4/streams/free/ERCE/1ee0ea8cd415edbf2d4501aa08c6eb8e9c1df553/1af89c
+#EXTINF:-1 tvg-name="" tvg-logo="https://www.themoviedb.org/t/p/original/wkeQVcPYUPu8PwAKdgavnYJlMj6.jpg" group-title="FR Movie",Arthur Rambo
+https://toma654.tomacloud.com/files/ZIOD6BiLFwFZVcYQQeJagKwRTIFQuxaufY7.mp4
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Movie",
 
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title=" Movie",
